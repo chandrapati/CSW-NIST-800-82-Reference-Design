@@ -55,7 +55,7 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 **Console areas:** Investigate (inventory, flows, vulns) · Defend/Segmentation (policy) · Manage (agents) · Platform (connectors) · Administration (audit log)
 
-**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/about-csw.md) (platform intro)
+**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/about-csw.md) (platform intro)
 
 ---
 
@@ -374,13 +374,13 @@ Per incident, retain on the IT side:
 
 ## Related Frameworks in This Repository
 
-- [NIST SP 800-53 Rev 5](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) — the control catalogue underlying 800-82
-- [NERC CIP](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NERC-CIP/CSW-NERC-CIP-Technical-Runbook.md) — for North American Bulk Electric System operators
-- [TSA Pipeline](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/TSA-Pipeline/CSW-TSA-Pipeline-Technical-Runbook.md) — for US pipeline operators
-- [IEC 62443](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/IEC-62443/CSW-IEC-62443-Technical-Runbook.md) — adjacent OT cybersecurity standard
+- [NIST SP 800-53 Rev 5](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) — the control catalogue underlying 800-82
+- [NERC CIP](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NERC-CIP/CSW-NERC-CIP-Technical-Runbook.md) — for North American Bulk Electric System operators
+- [TSA Pipeline](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/TSA-Pipeline/CSW-TSA-Pipeline-Technical-Runbook.md) — for US pipeline operators
+- [IEC 62443](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/IEC-62443/CSW-IEC-62443-Technical-Runbook.md) — adjacent OT cybersecurity standard
 
 
-- [UK NCSC CAF v3.2](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/UK-NCSC-CAF/caf-mapping.md) — OT-adjacent IT segmentation is the reuse path for CAF B5.
+- [UK NCSC CAF v3.2](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/UK-NCSC-CAF/caf-mapping.md) — OT-adjacent IT segmentation is the reuse path for CAF B5.
 
 ---
 
@@ -396,4 +396,4 @@ Per incident, retain on the IT side:
 
 ---
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
